@@ -16,7 +16,7 @@ func determineListenAddress() (string, error) {
 }
 
 func hello(w http.ResponseWriter, r *http.Request) {
-  fmt.Fprintln(w, "Hello World  - Nikola Tanja Anastasija Dragana")
+  fmt.Fprintln(w, "Hello World  - Nikola Tanja Anastasija Dragana ...")
 }
 
 func main() {
