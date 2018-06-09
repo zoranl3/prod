@@ -1,4 +1,11 @@
-doc
+
 *.test
 *.exe
 .gitconfig
+
+doc
+
+src/github.com
+src/golang.org
+
+pkg
